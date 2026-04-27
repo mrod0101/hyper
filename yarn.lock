@@ -7852,10 +7852,10 @@ xterm-addon-ligatures@^0.5.1:
     font-finder "^1.1.0"
     font-ligatures "^1.4.0"
 
-xterm-addon-search@^0.8.2:
-  version "0.8.2"
-  resolved "https://registry.npmjs.org/xterm-addon-search/-/xterm-addon-search-0.8.2.tgz#be7aa74d5ff12c901707c6ff674229f214318032"
-  integrity sha512-I1863mjn8P6uVrqm/X+btalVsqjAKLhnhpbP7SavAOpEkI1jJhbHU2UTp7NjeRtcKTks6UWk/ycgds5snDSejg==
+xterm-addon-search@^0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/xterm-addon-search/-/xterm-addon-search-0.13.0.tgz#21286f4db48aa949fbefce34bb8bc0c9d3cec627"
+  integrity sha512-sDUwG4CnqxUjSEFh676DlS3gsh3XYCzAvBPSvJ5OPgF3MRL3iHLPfsb06doRicLC2xXNpeG2cWk8x1qpESWJMA==
 
 xterm-addon-unicode11@^0.3.0:
   version "0.3.0"
